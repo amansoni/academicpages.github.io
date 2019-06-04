@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Aman Soni"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Aman Soni"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Aman Soni"
+  avatar           : "profile.jpg"
+  bio              : "Computer Scientist. Writes [research, technology articles, code, tutorials]. Reads [research, blogs, sci-fi, biographies]. Plays [bridge, chess, thunnee, backgammon, other]. Activities [run, automate, meditate, socialise]."
+  location         : 
+  employer         : "Aston University, Birmingham, UK"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.co.uk/citations?user=vCpN_UIAAAAJ&hl=en"
+  email            : "me@amansoni.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "amansoni"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8630-4296"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "amansoni"
   vine             :
   weibo            :
   xing             :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:	Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
